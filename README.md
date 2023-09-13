@@ -1,6 +1,6 @@
 # Clonación de la Interfaz de Google con HTML y CSS
 
-Hola, ha llegado el momento de poner en práctica lo aprendido y para ello te pido que puedas clonar la interfaz de Google siguiendo los diguientes pasos:
+Hola, a continuacion muestro un peque;o proyecto en el que he puesto en practica algunas de las tecnologias que he estado aprendiendo:
 
 ## **ÍNDICE**
 
@@ -19,7 +19,7 @@ HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los
 
 ## 2. Demo
 
-Puedes entrar a ver el demo en este vínculo: https://dazzling-nightingale-01ce86.netlify.app
+Puedes entrar a ver el demo en este vínculo: [https://dazzling-nightingale-01ce86.netlify.app](https://clon-de-google-one.vercel.app/)
 
 La idea es inspirarte con esta demostración de proyecto. 
 
