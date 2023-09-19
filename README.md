@@ -1,6 +1,6 @@
 # Clonación de la Interfaz de Google con HTML y CSS
 
-Hola, a continuacion muestro un peque;o proyecto en el que he puesto en practica algunas de las tecnologias que he estado aprendiendo:
+Hola, a continuacion muestro un mini proyecto en el que he puesto en practica algunas de las tecnologias que he estado aprendiendo:
 
 ## **ÍNDICE**
 
@@ -24,8 +24,6 @@ Puedes entrar a ver el demo en este vínculo: [https://dazzling-nightingale-01ce
 La idea es inspirarte con esta demostración de proyecto. 
 
 **¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
-
-![imagen]("./../imagenes/demo.png)
 
 
 ****
