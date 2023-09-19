@@ -1,6 +1,6 @@
 # Clonación de la Interfaz de Google con HTML y CSS
 
-Hola, a continuacion muestro un peque;o proyecto en el que he puesto en practica algunas de las tecnologias que he estado aprendiendo:
+Hola, a continuacion muestro un mini proyecto en el que he puesto en practica algunas de las tecnologias que he estado aprendiendo:
 
 ## **ÍNDICE**
 
