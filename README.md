@@ -22,13 +22,12 @@ HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los
 
 Puedes entrar a ver el demo en este vínculo: [https://dazzling-nightingale-01ce86.netlify.app](https://clon-de-google-one.vercel.app/)
 
-La idea es inspirarte con esta demostración de proyecto.
+La idea es inspirar con esta demostración de proyecto.
 
-**¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
 
 ---
 
-## 3. ¿Qué construirás?
+## 3. ¿Qué harás?
 
 Este proyecto está enfocado en construir la interfaz estática de Google.
 
