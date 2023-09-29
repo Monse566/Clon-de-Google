@@ -38,7 +38,7 @@ Se te pide que sea una sola página que contenga las secciones siguientes:
 - **b. Main**
   Sección del contenedor para los elementos centrales de la página.
 - **c. Footer**
-  Sección que incluye hipervínculos al final de la página.
+  Sección que incluye hipervínculos al final de la página creada.
 
 ---
 
